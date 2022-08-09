@@ -1,2 +1,2 @@
 # GTEC-mlp
-https://thabumon.github.io/GTEC-mlp/
+https://souravo.github.io/G-Tech-MLP/
